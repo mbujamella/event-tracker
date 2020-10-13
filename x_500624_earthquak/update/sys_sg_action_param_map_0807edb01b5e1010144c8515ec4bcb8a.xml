@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (EarthQuakes Data)">4807edb01b5e1010144c8515ec4bcb83</button>
+        <item_parameter display_value="EarthQuakes Data sys_id">0407edb01b5e1010144c8515ec4bcb7d</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-26 18:56:21</sys_created_on>
+        <sys_id>0807edb01b5e1010144c8515ec4bcb8a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0407edb01b5e1010144c8515ec4bcb7d</sys_name>
+        <sys_package display_value="EarthQuakes Last Year" source="x_500624_earthquak">9fe561b01b5e1010144c8515ec4bcbbb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EarthQuakes Last Year">9fe561b01b5e1010144c8515ec4bcbbb</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_0807edb01b5e1010144c8515ec4bcb8a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-26 18:56:21</sys_updated_on>
+        <ui_parameter display_value="Sys ID">8c07edb01b5e1010144c8515ec4bcb84</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

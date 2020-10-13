@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Launcher Button">f0466e7c1bde1010144c8515ec4bcbe4</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">70466e7c1bde1010144c8515ec4bcbe2</icon>
+        <label>Future Launcher Button Instance</label>
+        <location>top</location>
+        <name>Future Launcher Button Instance</name>
+        <order/>
+        <parent>453906b81b9e1010144c8515ec4bcb45</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-26 23:32:45</sys_created_on>
+        <sys_id>bc466e7c1bde1010144c8515ec4bcbe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Future Launcher Button Instance</sys_name>
+        <sys_package display_value="EarthQuakes Last Year" source="x_500624_earthquak">9fe561b01b5e1010144c8515ec4bcbbb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EarthQuakes Last Year">9fe561b01b5e1010144c8515ec4bcbbb</sys_scope>
+        <sys_update_name>sys_sg_button_instance_bc466e7c1bde1010144c8515ec4bcbe6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-26 23:32:45</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=bc466e7c1bde1010144c8515ec4bcbe6"/>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Agent Chat">73785ce07320330018eea18d4ef6a7c8</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="icon-Information-Solid">b9943eb41b125010144c8515ec4bcb47</icon>
+        <label>Houses Destroyed Parameter</label>
+        <location>quick_action</location>
+        <name>Houses Destroyed Parameter</name>
+        <order/>
+        <parent>9c08c6781b9e1010144c8515ec4bcb6b</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-27 00:35:21</sys_created_on>
+        <sys_id>b1943eb41b125010144c8515ec4bcb4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Houses Destroyed Parameter</sys_name>
+        <sys_package display_value="EarthQuakes Last Year" source="x_500624_earthquak">9fe561b01b5e1010144c8515ec4bcbbb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EarthQuakes Last Year">9fe561b01b5e1010144c8515ec4bcbbb</sys_scope>
+        <sys_update_name>sys_sg_button_instance_b1943eb41b125010144c8515ec4bcb4a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-27 00:35:21</sys_updated_on>
+        <table>sys_sg_applet_launcher</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=b1943eb41b125010144c8515ec4bcb4a"/>
+</record_update>

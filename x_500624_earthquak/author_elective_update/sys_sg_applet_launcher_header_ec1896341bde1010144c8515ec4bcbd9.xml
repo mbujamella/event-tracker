@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_header">
+    <sys_sg_applet_launcher_header action="DELETE">
+        <sys_class_name>sys_sg_applet_launcher_header</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-26 22:30:45</sys_created_on>
+        <sys_id>ec1896341bde1010144c8515ec4bcbd9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit ${full_name}</sys_name>
+        <sys_package display_value="EarthQuakes Last Year" source="x_500624_earthquak">9fe561b01b5e1010144c8515ec4bcbbb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EarthQuakes Last Year">9fe561b01b5e1010144c8515ec4bcbbb</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_header_ec1896341bde1010144c8515ec4bcbd9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-26 22:30:45</sys_updated_on>
+        <text>Needit ${full_name}</text>
+        <variables/>
+    </sys_sg_applet_launcher_header>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EarthQuakes Last Year">9fe561b01b5e1010144c8515ec4bcbbb</application>
+        <file_path/>
+        <instance_id>5b0c3c12dbc39f047e55d5b0cf961991</instance_id>
+        <instance_name>dev63624</instance_name>
+        <name>sys_sg_applet_launcher_header_ec1896341bde1010144c8515ec4bcbd9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_header"><sys_sg_applet_launcher_header action="INSERT_OR_UPDATE"><sys_class_name>sys_sg_applet_launcher_header</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-26 22:30:45</sys_created_on><sys_id>ec1896341bde1010144c8515ec4bcbd9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Needit ${full_name}</sys_name><sys_package display_value="EarthQuakes Last Year" source="x_500624_earthquak">9fe561b01b5e1010144c8515ec4bcbbb</sys_package><sys_policy/><sys_scope display_value="EarthQuakes Last Year">9fe561b01b5e1010144c8515ec4bcbbb</sys_scope><sys_update_name>sys_sg_applet_launcher_header_ec1896341bde1010144c8515ec4bcbd9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-26 22:30:45</sys_updated_on><text>Needit ${full_name}</text><variables/></sys_sg_applet_launcher_header></record_update>]]></payload>
+        <payload_hash>1535672104</payload_hash>
+        <record_name>Needit ${full_name}</record_name>
+        <reverted_from/>
+        <source>dfe561b01b5e1010144c8515ec4bcbbd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-26 22:30:45</sys_created_on>
+        <sys_id>e81896341bde1010144c8515ec4bcbdb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1738d3ff34e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-26 22:30:45</sys_updated_on>
+        <type>Header Title</type>
+        <update_guid>24189634d5de1010a6db460f9a4cd7db</update_guid>
+        <update_guid_history>24189634d5de1010a6db460f9a4cd7db:1535672104</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-26 22:30:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_header">sys_sg_applet_launcher_header</sys_db_object>
+        <sys_id>93f5864b71364780adb7cebf5d090400</sys_id>
+        <sys_metadata>ec1896341bde1010144c8515ec4bcbd9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit ${full_name}</sys_name>
+        <sys_package display_value="EarthQuakes Last Year" source="x_500624_earthquak">9fe561b01b5e1010144c8515ec4bcbbb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EarthQuakes Last Year">9fe561b01b5e1010144c8515ec4bcbbb</sys_scope>
+        <sys_scope_delete display_value="">242c1be5cd344310a96ed723801715e4</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_header_ec1896341bde1010144c8515ec4bcbd9</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_header_ec1896341bde1010144c8515ec4bcbd9">e81896341bde1010144c8515ec4bcbdb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-26 22:30:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

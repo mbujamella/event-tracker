@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (EarthQuakes Data)">8007edb01b5e1010144c8515ec4bcb54</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (EarthQuakes Data)</name>
+        <order>10</order>
+        <parent>8c07edb01b5e1010144c8515ec4bcb4e</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-26 18:56:21</sys_created_on>
+        <sys_id>4007edb01b5e1010144c8515ec4bcb57</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Delete (EarthQuakes Data)</sys_name>
+        <sys_package display_value="EarthQuakes Last Year" source="x_500624_earthquak">9fe561b01b5e1010144c8515ec4bcbbb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EarthQuakes Last Year">9fe561b01b5e1010144c8515ec4bcbbb</sys_scope>
+        <sys_update_name>sys_sg_button_instance_4007edb01b5e1010144c8515ec4bcb57</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-26 19:39:19</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=4007edb01b5e1010144c8515ec4bcb57"/>
+</record_update>

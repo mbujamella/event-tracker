@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="EarthQuakes">f69502f41b9e1010144c8515ec4bcbbf</applet_launcher>
+        <order>10</order>
+        <section display_value="testapp">875a16741bde1010144c8515ec4bcb76</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-26 22:40:45</sys_created_on>
+        <sys_id>075a12b41bde1010144c8515ec4bcbf5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="EarthQuakes Last Year" source="x_500624_earthquak">9fe561b01b5e1010144c8515ec4bcbbb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EarthQuakes Last Year">9fe561b01b5e1010144c8515ec4bcbbb</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_075a12b41bde1010144c8515ec4bcbf5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-26 22:40:45</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>
